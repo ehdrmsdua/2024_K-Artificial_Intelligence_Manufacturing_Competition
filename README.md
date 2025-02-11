@@ -1,5 +1,5 @@
 # Title: The 4th K-Artificial Intelligence Manufacturing Data Analysis Competition 2024<br/>
-## Topic: Regression Prediction of Casting Process Data<br/>
+## Topic: Regression Prediction of Casting Process Data<br/> 
 ## Period: 2024.10 - 2024.11 <br/>
 
 ### Announcement Document:<br/>
